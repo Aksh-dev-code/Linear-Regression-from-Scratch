@@ -77,13 +77,6 @@ Building the model from scratch helped in understanding:
 
 ---
 
-## Future Work
-
-* Apply the model to larger real-world datasets
-* Perform deeper Exploratory Data Analysis
-* Implement additional machine learning algorithms from scratch
-
----
 
 ## Author
 
