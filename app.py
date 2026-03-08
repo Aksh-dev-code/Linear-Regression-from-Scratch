@@ -22,7 +22,7 @@ bias = 0.01205207459282555
 # -----------------------------
 # Title Section
 # -----------------------------
-st.title("💰 Tip Prediction App")
+st.title(" Tip Prediction App")
 st.write("Predict restaurant tips using **Linear Regression From Scratch**")
 
 st.divider()
